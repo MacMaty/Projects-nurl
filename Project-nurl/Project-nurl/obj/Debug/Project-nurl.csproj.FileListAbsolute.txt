@@ -1,0 +1,6 @@
+C:\Users\Mathieu\SkyDrive\Documents\ESGI\Cours\CSharp\Projects-nurl\Project-nurl\Project-nurl\bin\Debug\Project-nurl.dll
+C:\Users\Mathieu\SkyDrive\Documents\ESGI\Cours\CSharp\Projects-nurl\Project-nurl\Project-nurl\bin\Debug\Project-nurl.pdb
+C:\Users\Mathieu\SkyDrive\Documents\ESGI\Cours\CSharp\Projects-nurl\Project-nurl\Project-nurl\bin\Debug\NUnit.Framework.dll
+C:\Users\Mathieu\SkyDrive\Documents\ESGI\Cours\CSharp\Projects-nurl\Project-nurl\Project-nurl\obj\Debug\Project-nurl.csprojResolveAssemblyReference.cache
+C:\Users\Mathieu\SkyDrive\Documents\ESGI\Cours\CSharp\Projects-nurl\Project-nurl\Project-nurl\obj\Debug\Project-nurl.dll
+C:\Users\Mathieu\SkyDrive\Documents\ESGI\Cours\CSharp\Projects-nurl\Project-nurl\Project-nurl\obj\Debug\Project-nurl.pdb
