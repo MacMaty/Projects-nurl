@@ -19,5 +19,20 @@ namespace Project_nurl
   {     
    Assert.Fail("This test fails.");    
   }   
+		
+		
+		[Test]
+public void Should_show_the_content_of_a_page()
+{
+    //given
+    var command = null ;//votre implémentation
+
+    //when
+    var result = command.Show(url); //exemple d'implémentation
+
+    //then
+
+    Assert.That(result, Is.EqualTo("<h1>hello</h1>"));
+}
  }  
 }
